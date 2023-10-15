@@ -1,0 +1,4 @@
+Recall is the ratio of true positives to the total number of actual positives. In the context of NASA-RUL, a high recall means that your model is good at identifying most of the actual failures. This is crucial when safety or major financial implications are at stake, and missing a failure is costly. In these cases, you would prioritize recall over precision.
+This happens when a part is falsely identified as "not requiring servicing" when it truly requires.
+implies that there are serious safety problems that could endanger life and cause catastrophic failures. 
+The priority should always be safety in the aviation industry. The expense of servicing an aircraft before it actually needs it is significantly less than the cost we could have to pay if we incorrectly categorize it as not needing servicing because this could result in safety concerns.
